@@ -1,0 +1,11 @@
+{
+  "cipherKey": "",
+  "chatTo": "",
+  "adminPrivilege": [
+    {
+      "userId": 0
+    }
+  ],
+  "viewTimeout": 5000,
+  "imageExpirationTimeout": 1440
+}
